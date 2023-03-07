@@ -2069,3 +2069,242 @@ Script Stack (0 frames):
 [2023.03.07-10.51.40:438][ 74]LogContentValidation: Display: AnimSequence /Game/Anim/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights 유효성 검사 중
 [2023.03.07-10.51.40:438][ 74]LogContentValidation: Display: AnimSequence /Game/Anim/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights 유효성 검사 중
 [2023.03.07-10.51.40:438][ 74]LogContentValidation: Display: AnimSequence /Game/Anim/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights 유효성 검사 중
+[2023.03.07-10.52.29:424][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.07-10.52.29:424][867]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 3. 8. 오전 4:52:29)
+[2023.03.07-10.52.29:425][867]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.03.07-10.52.29:426][867]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.07-10.52.29:426][867]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-10.52.29:432][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006121s)
+[2023.03.07-10.52.29:433][867]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.07-10.52.29:433][867]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2023.03.07-10.52.29:433][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.006958s)
+[2023.03.07-10.52.29:438][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.07-10.52.29:439][867]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.07-10.52.29:439][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.07-10.52.29:439][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.07-10.52.29:439][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.07-10.52.29:439][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.07-10.52.29:439][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.07-10.52.29:439][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.07-10.52.29:439][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.07-10.52.29:439][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.07-10.52.29:439][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.07-10.52.29:439][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.07-10.52.29:439][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.07-10.52.29:439][867]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.07-10.52.29:441][867]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.07-10.52.29:441][867]LogAudioMixer: Display: 1: FrontRight
+[2023.03.07-10.52.29:448][867]LogAudioMixer: Display: Using Audio Device 스피커(2- USBZH5K-ENC)
+[2023.03.07-10.52.29:448][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.07-10.52.29:448][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.07-10.52.29:448][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.07-10.52.29:448][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.07-10.52.29:448][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.07-10.52.29:448][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.07-10.52.29:449][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.07-10.52.29:449][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.07-10.52.29:449][867]LogInit: FAudioDevice initialized.
+[2023.03.07-10.52.29:449][867]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2023.03.07-10.52.29:469][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-10.52.29:470][867]LogLoad: Game class is 'GameModeBase'
+[2023.03.07-10.52.29:472][867]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.07-19.52.29
+[2023.03.07-10.52.29:472][867]LogWorld: Bringing up level for play took: 0.001486
+[2023.03.07-10.52.29:472][867]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.03.07-10.52.29:477][867]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.03.07-10.52.29:480][867]PIE: 서버가 로그인했습니다.
+[2023.03.07-10.52.29:481][867]PIE: 에디터에서 플레이 총 시작 시간 0.058초입니다.
+[2023.03.07-10.52.29:522][868]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2023.03.07-10.52.33:638][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-10.52.33:638][340]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-10.52.33:639][340]LogSlate: Window 'Project_CT 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2023.03.07-10.52.33:644][340]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-10.52.33:644][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-10.52.33:653][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.07-10.52.33:654][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-10.52.33:658][340]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.07-10.52.33:658][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-10.52.33:659][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-10.52.33:662][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.07-10.52.33:705][342]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.03.07-10.52.50:001][311]LogContentBrowser: Attempting asset rename: ThirdPersonCharacter -> PlayerCharacter
+[2023.03.07-10.52.50:016][311]LogMetaData: Removing '/Game/Blueprint/PlayerCharacter.PlayerCharacter_C' ref from Metadata '/Game/Blueprint/ThirdPersonCharacter.PackageMetaData'
+[2023.03.07-10.52.50:016][311]LogMetaData: Removing '/Game/Blueprint/PlayerCharacter.SKEL_PlayerCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/Blueprint/ThirdPersonCharacter.PackageMetaData'
+[2023.03.07-10.52.50:016][311]LogMetaData: Removing '/Game/Blueprint/PlayerCharacter.SKEL_PlayerCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/Blueprint/ThirdPersonCharacter.PackageMetaData'
+[2023.03.07-10.52.50:016][311]LogMetaData: Removing '/Game/Blueprint/PlayerCharacter.SKEL_PlayerCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/Blueprint/ThirdPersonCharacter.PackageMetaData'
+[2023.03.07-10.52.50:016][311]LogMetaData: Removing '/Game/Blueprint/PlayerCharacter.SKEL_PlayerCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/Blueprint/ThirdPersonCharacter.PackageMetaData'
+[2023.03.07-10.52.50:016][311]LogMetaData: Removing '/Game/Blueprint/PlayerCharacter.SKEL_PlayerCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/Blueprint/ThirdPersonCharacter.PackageMetaData'
+[2023.03.07-10.52.50:016][311]LogMetaData: Removing '/Game/Blueprint/PlayerCharacter.SKEL_PlayerCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/Blueprint/ThirdPersonCharacter.PackageMetaData'
+[2023.03.07-10.52.50:016][311]LogMetaData: Removing '/Game/Blueprint/PlayerCharacter.SKEL_PlayerCharacter_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/ThirdPersonCharacter.PackageMetaData'
+[2023.03.07-10.52.50:016][311]LogMetaData: Removing '/Game/Blueprint/PlayerCharacter.SKEL_PlayerCharacter_C' ref from Metadata '/Game/Blueprint/ThirdPersonCharacter.PackageMetaData'
+[2023.03.07-10.52.50:050][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/PlayerCharacter.uasset" SILENT=true
+[2023.03.07-10.52.50:068][311]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/PlayerCharacterF61DF2FF4833921B4C759B9760E058AC.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/PlayerCharacter.uasset'
+[2023.03.07-10.52.50:069][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/ThirdPersonCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/ThirdPersonCharacter.uasset" SILENT=true
+[2023.03.07-10.52.50:070][311]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPersonCharacter12F3BAF84731196B89A676A29732756C.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/ThirdPersonCharacter.uasset'
+[2023.03.07-10.52.50:094][311]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2023.03.07-10.52.50:094][311]LogContentValidation: Display: Blueprint /Game/Blueprint/PlayerCharacter.PlayerCharacter 유효성 검사 중
+[2023.03.07-10.52.50:094][311]LogContentValidation: Display: ObjectRedirector /Game/Blueprint/ThirdPersonCharacter.ThirdPersonCharacter 유효성 검사 중
+[2023.03.07-10.52.50:094][311]LogContentValidation: Display: ObjectRedirector /Game/Blueprint/ThirdPersonCharacter.Default__ThirdPersonCharacter_C 유효성 검사 중
+[2023.03.07-10.52.50:094][311]LogContentValidation: Display: ObjectRedirector /Game/Blueprint/ThirdPersonCharacter.ThirdPersonCharacter_C 유효성 검사 중
+[2023.03.07-10.53.08:474][339]LogContentBrowser: Attempting asset rename: ThirdPersonGameMode -> BP_GameMode
+[2023.03.07-10.53.08:495][339]LogMetaData: Removing '/Game/Blueprint/BP_GameMode.BP_GameMode_C' ref from Metadata '/Game/Blueprint/ThirdPersonGameMode.PackageMetaData'
+[2023.03.07-10.53.08:495][339]LogMetaData: Removing '/Game/Blueprint/BP_GameMode.SKEL_BP_GameMode_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/ThirdPersonGameMode.PackageMetaData'
+[2023.03.07-10.53.08:495][339]LogMetaData: Removing '/Game/Blueprint/BP_GameMode.SKEL_BP_GameMode_C' ref from Metadata '/Game/Blueprint/ThirdPersonGameMode.PackageMetaData'
+[2023.03.07-10.53.08:514][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GameMode" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_GameMode.uasset" SILENT=true
+[2023.03.07-10.53.08:516][339]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_GameModeBF381DC74FE316591E41D4B8B50D3C2D.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_GameMode.uasset'
+[2023.03.07-10.53.08:555][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.07-10.53.08:564][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.07-10.53.08:567][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.03.07-10.53.08:583][339]AssetCheck: New page: 에셋 저장:  BP_GameMode
+[2023.03.07-10.53.08:583][339]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_GameMode.BP_GameMode 유효성 검사 중
+[2023.03.07-10.53.32:506][252]LogContentBrowser: Attempting asset rename: PlayerCharacter -> BP_PlayerCharacter
+[2023.03.07-10.53.32:519][252]LogMetaData: Removing '/Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter_C' ref from Metadata '/Game/Blueprint/PlayerCharacter.PackageMetaData'
+[2023.03.07-10.53.32:519][252]LogMetaData: Removing '/Game/Blueprint/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C' ref from Metadata '/Game/Blueprint/PlayerCharacter.PackageMetaData'
+[2023.03.07-10.53.32:519][252]LogMetaData: Removing '/Game/Blueprint/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/Blueprint/PlayerCharacter.PackageMetaData'
+[2023.03.07-10.53.32:520][252]LogMetaData: Removing '/Game/Blueprint/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/Blueprint/PlayerCharacter.PackageMetaData'
+[2023.03.07-10.53.32:520][252]LogMetaData: Removing '/Game/Blueprint/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/Blueprint/PlayerCharacter.PackageMetaData'
+[2023.03.07-10.53.32:520][252]LogMetaData: Removing '/Game/Blueprint/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/Blueprint/PlayerCharacter.PackageMetaData'
+[2023.03.07-10.53.32:520][252]LogMetaData: Removing '/Game/Blueprint/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/Blueprint/PlayerCharacter.PackageMetaData'
+[2023.03.07-10.53.32:520][252]LogMetaData: Removing '/Game/Blueprint/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/Blueprint/PlayerCharacter.PackageMetaData'
+[2023.03.07-10.53.32:520][252]LogMetaData: Removing '/Game/Blueprint/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/PlayerCharacter.PackageMetaData'
+[2023.03.07-10.53.32:558][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-10.53.32:577][252]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacter6AE726D248D54A90EFD80592F9251711.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-10.53.32:620][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.07-10.53.32:629][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.03.07-10.53.32:631][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.07-10.53.32:646][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/ThirdPersonCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/ThirdPersonCharacter.uasset" SILENT=true
+[2023.03.07-10.53.32:647][252]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPersonCharacter01F2AD1440BBFB42EDA15FA97D5F366A.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/ThirdPersonCharacter.uasset'
+[2023.03.07-10.53.32:648][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GameMode" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_GameMode.uasset" SILENT=true
+[2023.03.07-10.53.32:649][252]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_GameModeF724A69644F4DDA0C718C587C84D7B90.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_GameMode.uasset'
+[2023.03.07-10.53.32:672][252]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2023.03.07-10.53.32:672][252]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-10.53.32:672][252]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_GameMode.BP_GameMode 유효성 검사 중
+[2023.03.07-10.53.32:672][252]LogContentValidation: Display: ObjectRedirector /Game/Blueprint/ThirdPersonCharacter.ThirdPersonCharacter 유효성 검사 중
+[2023.03.07-10.53.32:672][252]LogContentValidation: Display: ObjectRedirector /Game/Blueprint/ThirdPersonCharacter.Default__ThirdPersonCharacter_C 유효성 검사 중
+[2023.03.07-10.53.32:672][252]LogContentValidation: Display: ObjectRedirector /Game/Blueprint/ThirdPersonCharacter.ThirdPersonCharacter_C 유효성 검사 중
+[2023.03.07-10.53.33:751][380]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter
+[2023.03.07-10.53.33:889][380]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2023.03.07-10.53.35:979][380]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.07-10.53.41:638][850]LogSlate: Window 'BP_PlayerCharacter' being destroyed
+[2023.03.07-10.54.04:690][ 35]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.07-10.54.21:040][645]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2023.03.07-10.54.21:052][645]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.03.07-10.54.21:057][645]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.03.07-10.54.21:117][645]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.07-10.54.21:211][645]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-10.54.21:215][645]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2023.03.07-10.54.22:925][645]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.07-10.55.09:467][809]BlueprintLog: New page: ThirdPerson_AnimBP 컴파일
+[2023.03.07-10.55.09:526][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.03.07-10.55.09:560][809]LogSlate: Took 0.007386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.07-10.55.09:567][809]LogSlate: Took 0.006881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2023.03.07-10.55.09:857][839]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPerson_AnimBP635BED7D44DB59DEB7611D808DEEEDD0.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.03.07-10.55.09:869][839]AssetCheck: New page: 에셋 저장:  ThirdPerson_AnimBP
+[2023.03.07-10.55.09:869][839]LogContentValidation: Display: AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP 유효성 검사 중
+[2023.03.07-10.56.10:814][801]BlueprintLog: New page: ThirdPerson_AnimBP 컴파일
+[2023.03.07-10.56.10:853][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.03.07-10.56.11:236][838]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPerson_AnimBP5D06DEE14915BE8C9391A98F11FD0FC1.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.03.07-10.56.11:248][838]AssetCheck: New page: 에셋 저장:  ThirdPerson_AnimBP
+[2023.03.07-10.56.11:248][838]LogContentValidation: Display: AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP 유효성 검사 중
+[2023.03.07-10.57.00:176][570]BlueprintLog: New page: ThirdPerson_AnimBP 컴파일
+[2023.03.07-10.57.00:210][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.03.07-10.57.01:000][656]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPerson_AnimBP5139600948BA9016CBEF7CAF5583BB05.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.03.07-10.57.01:014][656]AssetCheck: New page: 에셋 저장:  ThirdPerson_AnimBP
+[2023.03.07-10.57.01:014][656]LogContentValidation: Display: AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP 유효성 검사 중
+[2023.03.07-10.57.28:020][287]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anim/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2023.03.07-10.57.28:030][287]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-10.57.29:302][287]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.07-10.57.30:962][397]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-10.57.30:962][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-10.57.30:972][397]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-10.57.30:972][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-10.57.31:012][397]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-10.57.31:012][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-10.57.37:299][826]BlueprintLog: New page: ThirdPerson_AnimBP 컴파일
+[2023.03.07-10.57.37:372][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.03.07-10.57.39:824][109]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPerson_AnimBPD7037A0240D78E9849C79AB5EE878349.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.03.07-10.57.39:834][109]AssetCheck: New page: 에셋 저장:  ThirdPerson_AnimBP
+[2023.03.07-10.57.39:834][109]LogContentValidation: Display: AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP 유효성 검사 중
+[2023.03.07-10.58.11:962][735]BlueprintLog: New page: ThirdPerson_AnimBP 컴파일
+[2023.03.07-10.58.12:019][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.03.07-10.58.12:328][765]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPerson_AnimBPDB917D4A4494B294CE3FEDA8278AE9DF.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.03.07-10.58.12:340][765]AssetCheck: New page: 에셋 저장:  ThirdPerson_AnimBP
+[2023.03.07-10.58.12:340][765]LogContentValidation: Display: AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP 유효성 검사 중
+[2023.03.07-10.58.32:289][390]BlueprintLog: New page: ThirdPerson_AnimBP 컴파일
+[2023.03.07-10.58.32:319][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.03.07-10.58.32:660][425]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPerson_AnimBP33F3B7A34A83DC176461618C174F213A.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.03.07-10.58.32:675][425]AssetCheck: New page: 에셋 저장:  ThirdPerson_AnimBP
+[2023.03.07-10.58.32:675][425]LogContentValidation: Display: AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP 유효성 검사 중
+[2023.03.07-10.58.50:995][ 93]LogEditorTransaction: Undo 핀 링크 끊기
+[2023.03.07-10.58.51:057][ 93]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-10.58.51:205][101]LogEditorTransaction: Undo 핀 링크 끊기
+[2023.03.07-10.58.51:266][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-10.58.51:621][127]LogEditorTransaction: Undo 노드 이동
+[2023.03.07-10.58.51:681][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-10.58.52:031][165]LogEditorTransaction: Undo 노드 이동
+[2023.03.07-10.58.52:090][165]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-10.58.52:458][206]LogEditorTransaction: Undo 노드 이동
+[2023.03.07-10.58.52:519][206]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-10.58.52:915][250]LogEditorTransaction: Undo 핀 링크 생성
+[2023.03.07-10.58.52:976][250]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-10.58.58:086][850]BlueprintLog: New page: ThirdPerson_AnimBP 컴파일
+[2023.03.07-10.58.58:119][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.03.07-10.59.00:230][ 92]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPerson_AnimBP8A53E4FA465B53137C26189D992C3CD2.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.03.07-10.59.00:240][ 92]AssetCheck: New page: 에셋 저장:  ThirdPerson_AnimBP
+[2023.03.07-10.59.00:241][ 92]LogContentValidation: Display: AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP 유효성 검사 중
+[2023.03.07-10.59.14:394][931]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/ko//Engine/Animation/Persona/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2023.03.07-10.59.35:953][417]BlueprintLog: New page: ThirdPerson_AnimBP 컴파일
+[2023.03.07-10.59.35:990][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.03.07-10.59.36:387][456]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPerson_AnimBP122EC2774CE0792178C6C98F579CAD3D.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.03.07-10.59.36:401][456]AssetCheck: New page: 에셋 저장:  ThirdPerson_AnimBP
+[2023.03.07-10.59.36:401][456]LogContentValidation: Display: AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP 유효성 검사 중
+[2023.03.07-11.00.55:410][948]BlueprintLog: New page: ThirdPerson_AnimBP 컴파일
+[2023.03.07-11.00.55:445][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.03.07-11.00.55:792][982]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPerson_AnimBP085EEA8443F22EEDF819C7A650BF36CC.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.03.07-11.00.55:803][982]AssetCheck: New page: 에셋 저장:  ThirdPerson_AnimBP
+[2023.03.07-11.00.55:803][982]LogContentValidation: Display: AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP 유효성 검사 중
+[2023.03.07-11.01.33:923][792]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.01.33:969][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.03.07-11.01.34:320][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.01.34:336][824]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacter7823815D42E045768008698A16C3726F.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.01.34:351][824]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.01.34:351][824]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.02.18:804][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.03.07-11.02.18:818][813]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPersonExampleMap_Auto1D585B18F4F66D08181A394968CDFEDB1.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2023.03.07-11.02.18:818][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonExampleMap' took 0.035
+[2023.03.07-11.02.18:818][813]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2023.03.07-11.02.18:819][813]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP] ([4] browsable assets)...
+[2023.03.07-11.02.18:826][813]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2023.03.07-11.02.18:832][813]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2023.03.07-11.02.18:832][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP]
+[2023.03.07-11.02.18:845][813]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPerson_AnimBP_Auto1F6D97007419600E7210477A6CA5A69C3.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Saved/Autosaves/Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP_Auto1.uasset'
+[2023.03.07-11.02.18:846][813]LogFileHelpers: Auto-saving content packages took 0.027
+[2023.03.07-11.02.40:381][937]BlueprintLog: New page: ThirdPerson_AnimBP 컴파일
+[2023.03.07-11.02.40:414][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.03.07-11.02.41:343][ 39]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPerson_AnimBP290C733C46A9E7A56A00D1B3E90CE7EF.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.03.07-11.02.41:354][ 39]AssetCheck: New page: 에셋 저장:  ThirdPerson_AnimBP
+[2023.03.07-11.02.41:354][ 39]LogContentValidation: Display: AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP 유효성 검사 중
+[2023.03.07-11.02.50:675][132]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPerson_AnimBPAE0E59E34ECD695AB682F997C706C6FF.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.03.07-11.02.50:685][132]AssetCheck: New page: 에셋 저장:  ThirdPerson_AnimBP
+[2023.03.07-11.02.50:685][132]LogContentValidation: Display: AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP 유효성 검사 중
+[2023.03.07-11.02.51:257][199]BlueprintLog: New page: ThirdPerson_AnimBP 컴파일
+[2023.03.07-11.02.51:291][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.03.07-11.02.52:370][322]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-11.02.52:370][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.02.52:376][322]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-11.02.52:376][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.02.52:430][322]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-11.02.52:430][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.02.53:701][471]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.02.53:751][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.03.07-11.02.54:162][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.02.54:177][511]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacter59EED719466ACF059B18C596193C0909.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.02.54:189][511]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.02.54:189][511]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.02.55:271][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.03.07-11.02.56:313][633]LogSlate: Window '콘텐츠 저장' being destroyed
+[2023.03.07-11.02.56:331][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.07-11.02.56:347][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.07-11.02.56:358][633]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPersonExampleMap4B8978EF4816E0A30D3D46AEB0B38BBE.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Maps/ThirdPersonExampleMap.umap'
+[2023.03.07-11.02.56:365][633]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.034
+[2023.03.07-11.02.56:377][633]AssetCheck: New page: 에셋 저장:  ThirdPersonExampleMap
+[2023.03.07-11.02.56:377][633]LogContentValidation: Display: World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
