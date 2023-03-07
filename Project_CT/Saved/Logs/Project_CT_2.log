@@ -2308,3 +2308,621 @@ Script Stack (0 frames):
 [2023.03.07-11.02.56:365][633]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.034
 [2023.03.07-11.02.56:377][633]AssetCheck: New page: 에셋 저장:  ThirdPersonExampleMap
 [2023.03.07-11.02.56:377][633]LogContentValidation: Display: World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
+[2023.03.07-11.04.09:127][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.03.07-11.23.36:927][992]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.23.36:970][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.03.07-11.23.37:448][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.23.37:463][ 41]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacter5BE86641490706765A48B69B663C8CFE.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.23.37:476][ 41]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.23.37:476][ 41]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.24.02:589][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.03.07-11.24.02:600][587]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPersonExampleMap_Auto21768506B4BFC42960E9610BA13EFEC63.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2023.03.07-11.24.02:601][587]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonExampleMap' took 0.032
+[2023.03.07-11.24.02:601][587]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2023.03.07-11.24.05:111][887]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.24.05:153][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.03.07-11.24.05:654][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.24.05:667][940]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacterA86269B54C5FD2207588379F2E14E1EA.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.24.05:678][940]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.24.05:678][940]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.24.48:765][700]LogEditorTransaction: Undo 컴포넌트 추가
+[2023.03.07-11.25.11:396][270]LogEditorTransaction: Undo 컴포넌트 제거
+[2023.03.07-11.25.12:102][323]LogEditorTransaction: Undo 컴포넌트 변수 이름변경
+[2023.03.07-11.25.12:111][323]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0) Component already registered.
+[2023.03.07-11.25.12:112][323]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_11:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2023.03.07-11.25.12:113][323]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_12:PersistentLevel.PlayerCharacter_C_0.CharacterMesh0) Component already registered.
+[2023.03.07-11.25.12:114][323]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_13:PersistentLevel.PlayerCharacter_C_0.CharacterMesh0) Component already registered.
+[2023.03.07-11.25.12:114][323]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.BP_PlayerCharacter_C_0.CharacterMesh0) Component already registered.
+[2023.03.07-11.25.12:116][323]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_16:PersistentLevel.BP_PlayerCharacter_C_0.CharacterMesh0) Component already registered.
+[2023.03.07-11.25.25:513][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.25.25:526][844]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacter7462200B4416D189522427A11C908252.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.25.25:536][844]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.25.25:536][844]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.25.26:823][994]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.25.26:882][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.03.07-11.25.27:348][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.25.27:362][ 34]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacterD9A1C2D94C7C0666626B2498368BA756.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.25.27:375][ 34]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.25.27:375][ 34]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.26.07:638][288]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2023.03.07-11.26.07:644][288]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.26.08:053][288]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.07-11.26.09:935][509]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-11.26.09:935][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.26.09:941][509]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-11.26.09:941][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.26.10:002][509]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-11.26.10:002][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.27.08:781][ 18]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.27.08:828][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.03.07-11.27.25:045][827]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Assets/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2023.03.07-11.27.25:049][827]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.27.25:806][828]LogRenderer: Reallocating scene render targets to support 1280x876 Format 10 NumSamples 1 (Frame:1).
+[2023.03.07-11.31.34:195][230]Cmd: MODE ROTGRID=0
+[2023.03.07-11.31.37:062][571]Cmd: MODE ROTGRID=1
+[2023.03.07-11.32.24:084][312]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/UE4_Mannequin_SkeletonFD9D18F6437E3A8014E707BDF7B294A4.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2023.03.07-11.32.24:099][312]AssetCheck: New page: 에셋 저장:  UE4_Mannequin_Skeleton
+[2023.03.07-11.32.24:099][312]LogContentValidation: Display: Skeleton /Game/Assets/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton 유효성 검사 중
+[2023.03.07-11.32.33:800][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.32.33:813][604]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacterF1513AAA42E9CF16489B30AB359238A1.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.32.33:828][604]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.32.33:828][604]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.32.34:143][641]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.32.34:204][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.03.07-11.32.44:141][486]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.32.44:185][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.03.07-11.32.44:700][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.32.44:713][534]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacterB13A4F0C4723B20DD7C093B8454C0F5F.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.32.44:724][534]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.32.44:724][534]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.33.10:206][497]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.07-11.33.15:573][775]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.33.15:626][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.03.07-11.33.48:002][504]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.33.48:047][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.03.07-11.33.48:372][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.33.48:385][531]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacterA9F2C4FC4D7FCE6531DC0D9BE12D239D.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.33.48:397][531]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.33.48:397][531]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.33.57:304][ 71]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.07-11.33.57:320][ 71]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.07-11.34.02:295][653]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.34.02:351][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.03.07-11.34.02:669][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.34.02:682][684]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacter70929D6C4806969CDFECA1BE255F9591.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.34.02:696][684]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.34.02:696][684]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.34.08:847][952]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2023.03.07-11.34.08:851][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.07-11.34.08:851][952]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 3. 8. 오전 5:34:08)
+[2023.03.07-11.34.08:851][952]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-11.34.08:859][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006671s)
+[2023.03.07-11.34.08:859][952]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.07-11.34.08:859][952]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2023.03.07-11.34.08:859][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007585s)
+[2023.03.07-11.34.08:879][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.03.07-11.34.08:880][952]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.07-11.34.08:881][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.07-11.34.08:881][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.07-11.34.08:881][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.07-11.34.08:881][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.07-11.34.08:881][952]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.07-11.34.08:881][952]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.07-11.34.08:881][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.07-11.34.08:881][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.07-11.34.08:881][952]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.07-11.34.08:881][952]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.07-11.34.08:881][952]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.07-11.34.08:881][952]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.07-11.34.08:883][952]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.07-11.34.08:883][952]LogAudioMixer: Display: 1: FrontRight
+[2023.03.07-11.34.08:890][952]LogAudioMixer: Display: Using Audio Device 스피커(2- USBZH5K-ENC)
+[2023.03.07-11.34.08:891][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.07-11.34.08:891][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.07-11.34.08:891][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.07-11.34.08:891][952]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.07-11.34.08:891][952]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.07-11.34.08:891][952]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.07-11.34.08:892][952]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.07-11.34.08:892][952]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.07-11.34.08:892][952]LogInit: FAudioDevice initialized.
+[2023.03.07-11.34.08:892][952]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2023.03.07-11.34.08:915][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-11.34.08:915][952]LogLoad: Game class is 'GameModeBase'
+[2023.03.07-11.34.08:917][952]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.07-20.34.08
+[2023.03.07-11.34.08:917][952]LogWorld: Bringing up level for play took: 0.001294
+[2023.03.07-11.34.08:917][952]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.03.07-11.34.08:919][952]PIE: 서버가 로그인했습니다.
+[2023.03.07-11.34.08:920][952]PIE: 에디터에서 플레이 총 시작 시간 0.07초입니다.
+[2023.03.07-11.34.11:311][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-11.34.11:311][231]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-11.34.11:311][231]LogSlate: Window 'Project_CT 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2023.03.07-11.34.11:316][231]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-11.34.11:316][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.34.11:327][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.07-11.34.11:331][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.34.11:348][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.07-11.34.11:348][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-11.34.11:349][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-11.34.11:353][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.03.07-11.34.11:381][233]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.03.07-11.34.28:362][873]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.34.28:405][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.03.07-11.34.29:365][974]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2023.03.07-11.34.29:369][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.07-11.34.29:369][974]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 3. 8. 오전 5:34:29)
+[2023.03.07-11.34.29:369][974]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-11.34.29:375][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006158s)
+[2023.03.07-11.34.29:376][974]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.07-11.34.29:376][974]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2023.03.07-11.34.29:376][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.006971s)
+[2023.03.07-11.34.29:398][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.03.07-11.34.29:399][974]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.07-11.34.29:399][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.07-11.34.29:399][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.07-11.34.29:399][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.07-11.34.29:399][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.07-11.34.29:399][974]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.07-11.34.29:399][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.07-11.34.29:399][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.07-11.34.29:399][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.07-11.34.29:399][974]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.07-11.34.29:399][974]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.07-11.34.29:399][974]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.07-11.34.29:399][974]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.07-11.34.29:401][974]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.07-11.34.29:401][974]LogAudioMixer: Display: 1: FrontRight
+[2023.03.07-11.34.29:407][974]LogAudioMixer: Display: Using Audio Device 스피커(2- USBZH5K-ENC)
+[2023.03.07-11.34.29:407][974]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.07-11.34.29:407][974]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.07-11.34.29:407][974]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.07-11.34.29:408][974]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.07-11.34.29:408][974]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.07-11.34.29:408][974]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.07-11.34.29:409][974]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.07-11.34.29:409][974]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.07-11.34.29:409][974]LogInit: FAudioDevice initialized.
+[2023.03.07-11.34.29:409][974]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.03.07-11.34.29:429][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-11.34.29:429][974]LogLoad: Game class is 'GameModeBase'
+[2023.03.07-11.34.29:432][974]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.07-20.34.29
+[2023.03.07-11.34.29:432][974]LogWorld: Bringing up level for play took: 0.001515
+[2023.03.07-11.34.29:432][974]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.03.07-11.34.29:435][974]PIE: 서버가 로그인했습니다.
+[2023.03.07-11.34.29:436][974]PIE: 에디터에서 플레이 총 시작 시간 0.068초입니다.
+[2023.03.07-11.34.33:053][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-11.34.33:053][402]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-11.34.33:053][402]LogSlate: Window 'Project_CT 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2023.03.07-11.34.33:059][402]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-11.34.33:059][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.34.33:067][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.07-11.34.33:070][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.34.33:087][402]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.07-11.34.33:087][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-11.34.33:088][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-11.34.33:092][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.03.07-11.34.33:133][405]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.03.07-11.34.42:755][885]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.34.42:804][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.03.07-11.34.43:168][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.34.43:181][920]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacter8ADF3DB24E7C1D1BF8808F831A65A1D8.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.34.43:192][920]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.34.43:192][920]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.34.48:471][ 45]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2023.03.07-11.34.48:476][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.07-11.34.48:476][ 45]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 3. 8. 오전 5:34:48)
+[2023.03.07-11.34.48:477][ 45]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-11.34.48:482][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006346s)
+[2023.03.07-11.34.48:483][ 45]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.07-11.34.48:483][ 45]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2023.03.07-11.34.48:483][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007399s)
+[2023.03.07-11.34.48:503][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.03.07-11.34.48:504][ 45]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.07-11.34.48:504][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.07-11.34.48:504][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.07-11.34.48:504][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.07-11.34.48:504][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.07-11.34.48:504][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.07-11.34.48:504][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.07-11.34.48:504][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.07-11.34.48:504][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.07-11.34.48:504][ 45]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.07-11.34.48:504][ 45]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.07-11.34.48:504][ 45]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.07-11.34.48:504][ 45]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.07-11.34.48:506][ 45]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.07-11.34.48:506][ 45]LogAudioMixer: Display: 1: FrontRight
+[2023.03.07-11.34.48:513][ 45]LogAudioMixer: Display: Using Audio Device 스피커(2- USBZH5K-ENC)
+[2023.03.07-11.34.48:513][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.07-11.34.48:513][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.07-11.34.48:513][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.07-11.34.48:513][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.07-11.34.48:513][ 45]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.07-11.34.48:513][ 45]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.07-11.34.48:514][ 45]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.07-11.34.48:514][ 45]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.07-11.34.48:514][ 45]LogInit: FAudioDevice initialized.
+[2023.03.07-11.34.48:514][ 45]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2023.03.07-11.34.48:532][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-11.34.48:532][ 45]LogLoad: Game class is 'GameModeBase'
+[2023.03.07-11.34.48:534][ 45]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.07-20.34.48
+[2023.03.07-11.34.48:535][ 45]LogWorld: Bringing up level for play took: 0.001867
+[2023.03.07-11.34.48:535][ 45]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.03.07-11.34.48:538][ 45]PIE: 서버가 로그인했습니다.
+[2023.03.07-11.34.48:539][ 45]PIE: 에디터에서 플레이 총 시작 시간 0.065초입니다.
+[2023.03.07-11.34.54:275][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-11.34.54:275][725]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-11.34.54:276][725]LogSlate: Window 'Project_CT 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2023.03.07-11.34.54:281][725]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-11.34.54:281][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.34.54:287][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.07-11.34.54:291][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.34.54:307][725]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.07-11.34.54:308][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-11.34.54:309][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-11.34.54:313][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.03.07-11.34.54:341][727]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.03.07-11.35.19:072][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.03.07-11.35.19:085][953]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPersonExampleMap_Auto3FEA0F879476628B13F5920A563A62077.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2023.03.07-11.35.19:085][953]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonExampleMap' took 0.034
+[2023.03.07-11.35.19:085][953]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2023.03.07-11.35.20:549][123]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/UE4_Mannequin_SkeletonADE881784D827AA7428CE2B33446BEC8.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2023.03.07-11.35.20:562][123]AssetCheck: New page: 에셋 저장:  UE4_Mannequin_Skeleton
+[2023.03.07-11.35.20:562][123]LogContentValidation: Display: Skeleton /Game/Assets/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton 유효성 검사 중
+[2023.03.07-11.35.23:669][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.07-11.35.23:686][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.03.07-11.35.23:702][482]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPersonExampleMap7F597FD74F1C087BCBF058A050621455.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Maps/ThirdPersonExampleMap.umap'
+[2023.03.07-11.35.23:711][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap_BuiltData" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2023.03.07-11.35.23:763][482]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPersonExampleMap_BuiltData9656E8A9436380E4702EDBAAB3D2B1EE.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.07-11.35.23:775][482]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2023.03.07-11.35.23:775][482]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData 유효성 검사 중
+[2023.03.07-11.35.23:775][482]LogContentValidation: Display: World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
+[2023.03.07-11.35.34:661][743]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2023.03.07-11.35.34:667][743]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.35.35:061][743]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.07-11.35.49:928][507]BlueprintLog: New page: ThirdPerson_AnimBP 컴파일
+[2023.03.07-11.35.49:963][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.03.07-11.35.50:827][606]BlueprintLog: New page: ThirdPerson_AnimBP 컴파일
+[2023.03.07-11.35.50:861][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.03.07-11.35.51:250][645]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPerson_AnimBP10CBA2E1410673DB3B74E9AA3C7EFF48.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.03.07-11.35.51:261][645]AssetCheck: New page: 에셋 저장:  ThirdPerson_AnimBP
+[2023.03.07-11.35.51:261][645]LogContentValidation: Display: AnimBlueprint /Game/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP 유효성 검사 중
+[2023.03.07-11.35.59:007][862]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2023.03.07-11.35.59:010][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.07-11.35.59:010][862]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 3. 8. 오전 5:35:59)
+[2023.03.07-11.35.59:011][862]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-11.35.59:017][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006177s)
+[2023.03.07-11.35.59:017][862]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.07-11.35.59:018][862]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2023.03.07-11.35.59:018][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007005s)
+[2023.03.07-11.35.59:041][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.03.07-11.35.59:042][862]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.07-11.35.59:042][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.07-11.35.59:042][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.07-11.35.59:042][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.07-11.35.59:042][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.07-11.35.59:042][862]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.07-11.35.59:042][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.07-11.35.59:042][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.07-11.35.59:042][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.07-11.35.59:042][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.07-11.35.59:042][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.07-11.35.59:042][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.07-11.35.59:042][862]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.07-11.35.59:044][862]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.07-11.35.59:044][862]LogAudioMixer: Display: 1: FrontRight
+[2023.03.07-11.35.59:051][862]LogAudioMixer: Display: Using Audio Device 스피커(2- USBZH5K-ENC)
+[2023.03.07-11.35.59:051][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.07-11.35.59:051][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.07-11.35.59:051][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.07-11.35.59:051][862]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.07-11.35.59:051][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.07-11.35.59:051][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.07-11.35.59:052][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.07-11.35.59:052][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.07-11.35.59:052][862]LogInit: FAudioDevice initialized.
+[2023.03.07-11.35.59:052][862]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2023.03.07-11.35.59:065][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-11.35.59:065][862]LogLoad: Game class is 'GameModeBase'
+[2023.03.07-11.35.59:067][862]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.07-20.35.59
+[2023.03.07-11.35.59:067][862]LogWorld: Bringing up level for play took: 0.001459
+[2023.03.07-11.35.59:067][862]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2023.03.07-11.35.59:071][862]PIE: 서버가 로그인했습니다.
+[2023.03.07-11.35.59:072][862]PIE: 에디터에서 플레이 총 시작 시간 0.062초입니다.
+[2023.03.07-11.36.04:053][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-11.36.04:053][450]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-11.36.04:054][450]LogSlate: Window 'Project_CT 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2023.03.07-11.36.04:059][450]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-11.36.04:059][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.36.04:068][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.07-11.36.04:072][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.36.04:089][450]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.07-11.36.04:090][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-11.36.04:090][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-11.36.04:096][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.03.07-11.36.04:109][451]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.03.07-11.36.08:188][928]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.36.08:233][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.03.07-11.36.08:745][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.36.08:760][977]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacter8D405FE448633D625E3BDEA2C03505F1.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.36.08:774][977]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.36.08:774][977]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.36.10:156][136]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2023.03.07-11.36.10:160][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.07-11.36.10:160][136]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 3. 8. 오전 5:36:10)
+[2023.03.07-11.36.10:160][136]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-11.36.10:166][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006388s)
+[2023.03.07-11.36.10:166][136]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.07-11.36.10:166][136]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2023.03.07-11.36.10:166][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007237s)
+[2023.03.07-11.36.10:188][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.03.07-11.36.10:189][136]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.07-11.36.10:189][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.07-11.36.10:189][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.07-11.36.10:189][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.07-11.36.10:189][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.07-11.36.10:189][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.07-11.36.10:189][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.07-11.36.10:189][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.07-11.36.10:189][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.07-11.36.10:190][136]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.07-11.36.10:190][136]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.07-11.36.10:190][136]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.07-11.36.10:190][136]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.07-11.36.10:192][136]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.07-11.36.10:192][136]LogAudioMixer: Display: 1: FrontRight
+[2023.03.07-11.36.10:199][136]LogAudioMixer: Display: Using Audio Device 스피커(2- USBZH5K-ENC)
+[2023.03.07-11.36.10:199][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.07-11.36.10:199][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.07-11.36.10:199][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.07-11.36.10:199][136]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.07-11.36.10:199][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.07-11.36.10:199][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.07-11.36.10:200][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.07-11.36.10:200][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.07-11.36.10:200][136]LogInit: FAudioDevice initialized.
+[2023.03.07-11.36.10:200][136]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2023.03.07-11.36.10:222][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-11.36.10:222][136]LogLoad: Game class is 'GameModeBase'
+[2023.03.07-11.36.10:224][136]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.07-20.36.10
+[2023.03.07-11.36.10:224][136]LogWorld: Bringing up level for play took: 0.001429
+[2023.03.07-11.36.10:225][136]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2023.03.07-11.36.10:228][136]PIE: 서버가 로그인했습니다.
+[2023.03.07-11.36.10:230][136]PIE: 에디터에서 플레이 총 시작 시간 0.071초입니다.
+[2023.03.07-11.36.15:934][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-11.36.15:934][813]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-11.36.15:934][813]LogSlate: Window 'Project_CT 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2023.03.07-11.36.15:939][813]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-11.36.15:940][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.36.15:950][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.07-11.36.15:954][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-11.36.15:972][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.07-11.36.15:972][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-11.36.15:973][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-11.36.15:977][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.03.07-11.36.16:012][815]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.03.07-11.36.28:911][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.07-11.36.29:896][249]LogSlate: Window '콘텐츠 저장' being destroyed
+[2023.03.07-11.36.29:916][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.07-11.36.29:935][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.07-11.36.29:945][249]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPersonExampleMapC2231EA44020373B7FFF969C0E71C46C.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Maps/ThirdPersonExampleMap.umap'
+[2023.03.07-11.36.29:952][249]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.036
+[2023.03.07-11.36.29:962][249]AssetCheck: New page: 에셋 저장:  ThirdPersonExampleMap
+[2023.03.07-11.36.29:963][249]LogContentValidation: Display: World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
+[2023.03.07-11.36.35:136][851]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.07-11.36.35:153][851]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.07-11.36.37:521][136]LogContentBrowser: Attempting asset rename: NewFolder -> Weapon
+[2023.03.07-11.36.37:522][136]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.07-11.37.01:145][653]LogSlate: Window '부모 클래스 선택' being destroyed
+[2023.03.07-11.37.01:151][653]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.07-11.37.01:160][653]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.07-11.37.10:597][786]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Weapon_Base
+[2023.03.07-11.37.10:601][786]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.07-11.37.29:648][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Weapon/BP_Weapon_Base" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_Base.uasset" SILENT=true
+[2023.03.07-11.37.29:651][234]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_Weapon_Base5E5C1B7646B61BECB02094B193C69CA5.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_Base.uasset'
+[2023.03.07-11.37.29:662][234]AssetCheck: New page: 에셋 저장:  BP_Weapon_Base
+[2023.03.07-11.37.29:662][234]LogContentValidation: Display: Blueprint /Game/Blueprint/Weapon/BP_Weapon_Base.BP_Weapon_Base 유효성 검사 중
+[2023.03.07-11.37.47:679][ 14]LogContentBrowser: Deferred new asset file creation: BP_Weapon_Base_Child
+[2023.03.07-11.37.47:691][ 14]LogContentBrowser: Creating deferred item: BP_Weapon_Base_Child
+[2023.03.07-11.37.55:354][934]LogContentBrowser: Attempting asset rename: BP_Weapon_Base_Child -> BP_Weapon_M4A1
+[2023.03.07-11.37.55:357][934]LogContentBrowser: End creating deferred item BP_Weapon_Base_Child
+[2023.03.07-11.37.56:927][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Weapon/BP_Weapon_M4A1" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_M4A1.uasset" SILENT=true
+[2023.03.07-11.37.56:930][121]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_Weapon_M4A1ABA0B2A54B4176566C8A9CBFDDF36294.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_M4A1.uasset'
+[2023.03.07-11.37.56:941][121]AssetCheck: New page: 에셋 저장:  BP_Weapon_M4A1
+[2023.03.07-11.37.56:941][121]LogContentValidation: Display: Blueprint /Game/Blueprint/Weapon/BP_Weapon_M4A1.BP_Weapon_M4A1 유효성 검사 중
+[2023.03.07-11.41.36:711][304]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Weapon/BP_Weapon_Base.BP_Weapon_Base
+[2023.03.07-11.41.54:702][975]BlueprintLog: New page: BP_Weapon_Base 컴파일
+[2023.03.07-11.41.54:737][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.03.07-11.41.55:184][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Weapon/BP_Weapon_Base" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_Base.uasset" SILENT=true
+[2023.03.07-11.41.55:189][ 22]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_Weapon_Base4C7AF1114ABFD2ADDDFD0A884F73CAA6.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_Base.uasset'
+[2023.03.07-11.41.55:198][ 22]AssetCheck: New page: 에셋 저장:  BP_Weapon_Base
+[2023.03.07-11.41.55:198][ 22]LogContentValidation: Display: Blueprint /Game/Blueprint/Weapon/BP_Weapon_Base.BP_Weapon_Base 유효성 검사 중
+[2023.03.07-11.45.35:047][ 92]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Weapon/BP_Weapon_M4A1.BP_Weapon_M4A1
+[2023.03.07-11.45.37:946][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Weapon/BP_Weapon_Base" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_Base.uasset" SILENT=true
+[2023.03.07-11.45.37:949][406]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_Weapon_Base731AA26D4F05E39CB42832B9DC628D3F.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_Base.uasset'
+[2023.03.07-11.45.37:963][406]AssetCheck: New page: 에셋 저장:  BP_Weapon_Base
+[2023.03.07-11.45.37:963][406]LogContentValidation: Display: Blueprint /Game/Blueprint/Weapon/BP_Weapon_Base.BP_Weapon_Base 유효성 검사 중
+[2023.03.07-11.46.28:291][610]LogEditorTransaction: Undo 컴포넌트 변경
+[2023.03.07-11.46.28:404][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.46.28:407][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.46.32:021][ 10]LogEditorTransaction: Undo 컴포넌트 변경
+[2023.03.07-11.46.32:135][ 10]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.46.32:139][ 10]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.46.39:413][853]LogEditorTransaction: Undo 컴포넌트 변경
+[2023.03.07-11.46.39:529][853]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.46.39:534][853]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.46.41:784][ 94]Cmd: MODE GRID=0
+[2023.03.07-11.46.51:645][276]Cmd: MODE GRID=1
+[2023.03.07-11.46.52:146][336]LogEditorTransaction: Undo 컴포넌트 변경
+[2023.03.07-11.46.52:263][336]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.46.52:267][336]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.47.09:838][415]LogEditorTransaction: Undo 컴포넌트 변경
+[2023.03.07-11.47.09:959][415]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.47.09:963][415]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.47.10:787][490]LogEditorTransaction: Undo 컴포넌트 변경
+[2023.03.07-11.47.10:902][490]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.47.10:906][490]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.48.09:730][885]BlueprintLog: New page: BP_Weapon_M4A1 컴파일
+[2023.03.07-11.48.09:803][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.03.07-11.48.10:409][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Weapon/BP_Weapon_M4A1" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_M4A1.uasset" SILENT=true
+[2023.03.07-11.48.10:417][947]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_Weapon_M4A1D4B01F2F4CE062E999DC60B3C812B39B.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_M4A1.uasset'
+[2023.03.07-11.48.10:428][947]AssetCheck: New page: 에셋 저장:  BP_Weapon_M4A1
+[2023.03.07-11.48.10:428][947]LogContentValidation: Display: Blueprint /Game/Blueprint/Weapon/BP_Weapon_M4A1.BP_Weapon_M4A1 유효성 검사 중
+[2023.03.07-11.48.17:646][797]LogEditorTransaction: Undo 컴포넌트 변경
+[2023.03.07-11.48.17:765][797]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.48.17:769][797]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.48.20:318][ 73]BlueprintLog: New page: BP_Weapon_M4A1 컴파일
+[2023.03.07-11.48.20:358][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.03.07-11.48.20:784][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Weapon/BP_Weapon_M4A1" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_M4A1.uasset" SILENT=true
+[2023.03.07-11.48.20:792][120]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_Weapon_M4A1F2CF1F0C4C6A38477AAA7D9F35100BFC.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_M4A1.uasset'
+[2023.03.07-11.48.20:812][120]AssetCheck: New page: 에셋 저장:  BP_Weapon_M4A1
+[2023.03.07-11.48.20:812][120]LogContentValidation: Display: Blueprint /Game/Blueprint/Weapon/BP_Weapon_M4A1.BP_Weapon_M4A1 유효성 검사 중
+[2023.03.07-11.48.55:480][555]BlueprintLog: New page: BP_Weapon_Base 컴파일
+[2023.03.07-11.48.55:523][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.03.07-11.48.55:828][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Weapon/BP_Weapon_Base" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_Base.uasset" SILENT=true
+[2023.03.07-11.48.55:832][588]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_Weapon_BaseCF68507740ABD2678F8EFC874A93DDBD.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_Base.uasset'
+[2023.03.07-11.48.55:846][588]AssetCheck: New page: 에셋 저장:  BP_Weapon_Base
+[2023.03.07-11.48.55:846][588]LogContentValidation: Display: Blueprint /Game/Blueprint/Weapon/BP_Weapon_Base.BP_Weapon_Base 유효성 검사 중
+[2023.03.07-11.48.58:911][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Weapon/BP_Weapon_M4A1" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_M4A1.uasset" SILENT=true
+[2023.03.07-11.48.58:917][948]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_Weapon_M4A1BCC55BE949BBA6FA97A2FAB00F265560.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_M4A1.uasset'
+[2023.03.07-11.48.58:928][948]AssetCheck: New page: 에셋 저장:  BP_Weapon_M4A1
+[2023.03.07-11.48.58:928][948]LogContentValidation: Display: Blueprint /Game/Blueprint/Weapon/BP_Weapon_M4A1.BP_Weapon_M4A1 유효성 검사 중
+[2023.03.07-11.49.07:430][959]BlueprintLog: New page: BP_Weapon_M4A1 컴파일
+[2023.03.07-11.49.07:466][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.03.07-11.49.07:796][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Weapon/BP_Weapon_M4A1" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_M4A1.uasset" SILENT=true
+[2023.03.07-11.49.07:802][988]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_Weapon_M4A1D9AFE7354D438879739013957417CD89.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_M4A1.uasset'
+[2023.03.07-11.49.07:812][988]AssetCheck: New page: 에셋 저장:  BP_Weapon_M4A1
+[2023.03.07-11.49.07:812][988]LogContentValidation: Display: Blueprint /Game/Blueprint/Weapon/BP_Weapon_M4A1.BP_Weapon_M4A1 유효성 검사 중
+[2023.03.07-11.49.46:740][795]Cmd: MODE GRID=0
+[2023.03.07-11.49.48:591][ 15]Cmd: MODE GRID=1
+[2023.03.07-11.49.51:821][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.03.07-11.49.51:822][356]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonExampleMap' took 0.028
+[2023.03.07-11.49.51:823][356]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Weapon/BP_Weapon_M4A1] ([4] browsable assets)...
+[2023.03.07-11.49.51:829][356]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Weapon/BP_Weapon_M4A1.BP_Weapon_M4A1]
+[2023.03.07-11.49.51:835][356]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Weapon/BP_Weapon_M4A1.BP_Weapon_M4A1]
+[2023.03.07-11.49.51:835][356]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapon/BP_Weapon_M4A1]
+[2023.03.07-11.49.51:841][356]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_Weapon_M4A1_Auto452833A4A4E9C062B0D3C96AB6257A99E.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Saved/Autosaves/Game/Blueprint/Weapon/BP_Weapon_M4A1_Auto4.uasset'
+[2023.03.07-11.49.51:841][356]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.03.07-11.49.56:606][774]BlueprintLog: New page: BP_Weapon_M4A1 컴파일
+[2023.03.07-11.49.56:643][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.03.07-11.49.57:019][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Weapon/BP_Weapon_M4A1" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_M4A1.uasset" SILENT=true
+[2023.03.07-11.49.57:025][808]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_Weapon_M4A1CAEBD0F242BB2516FDD1B3B4A0EC0A3E.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/Weapon/BP_Weapon_M4A1.uasset'
+[2023.03.07-11.49.57:038][808]AssetCheck: New page: 에셋 저장:  BP_Weapon_M4A1
+[2023.03.07-11.49.57:038][808]LogContentValidation: Display: Blueprint /Game/Blueprint/Weapon/BP_Weapon_M4A1.BP_Weapon_M4A1 유효성 검사 중
+[2023.03.07-11.50.50:245][935]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.50.50:294][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.03.07-11.50.50:706][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.50.50:720][978]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacterD1D8C94140B4344E582F74B7FE4C6183.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.50.50:730][978]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.50.50:730][978]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.51.18:438][ 66]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.07-11.51.18:453][ 66]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.07-11.51.22:261][512]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.51.22:266][512]LogBlueprint: Error: [AssetLog] C:\Unreal\MyProject\Project_CT\Project_CT\Content\Blueprint\BP_PlayerCharacter.uasset: [Compiler] ' Spawn Transform ' 핀의 현재 값이 유효하지 않습니다: 'Spawn Transform' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2023.03.07-11.51.22:266][512]LogBlueprint: Error: [AssetLog] C:\Unreal\MyProject\Project_CT\Project_CT\Content\Blueprint\BP_PlayerCharacter.uasset: [Compiler] ' Spawn Transform ' 핀의 현재 값이 유효하지 않습니다: 'Spawn Transform' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2023.03.07-11.51.22:309][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.03.07-11.51.22:801][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.51.22:815][565]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacter5B9F34FD44AD5AC8CAC52C94DFD21BD1.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.51.22:826][565]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.51.22:826][565]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.52.05:015][197]LogEditorTransaction: Undo 노드 이동
+[2023.03.07-11.52.05:145][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.52.05:151][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.07-11.56.14:800][702]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.56.14:852][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2023.03.07-11.56.15:573][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.56.15:587][782]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacter60A140D348F3D350294235BD483809D0.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.56.15:603][782]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.56.15:603][782]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.56.23:264][388]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.56.23:311][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.03.07-11.56.23:639][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.56.23:654][420]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacter0AF591C24C860DEED338C0BDAABA1A60.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.56.23:666][420]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.56.23:666][420]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.57.11:507][687]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.57.11:562][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.03.07-11.57.12:261][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.57.12:278][764]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacterD9D46BC04EBAE1F1AE2661B3AD8F20B9.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.57.12:293][764]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.57.12:293][764]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-11.59.07:485][269]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-11.59.07:533][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.03.07-11.59.11:236][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-11.59.11:252][700]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacterA2F76B9A4AECCC6DEE51F7A1E2FBF47E.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-11.59.11:264][700]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-11.59.11:264][700]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-12.00.57:626][533]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-12.00.57:675][533]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.03.07-12.00.58:297][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-12.00.58:314][601]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacterCEE258764B33240DEAC945BCC36B4B3B.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-12.00.58:325][601]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-12.00.58:325][601]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-12.01.34:906][897]BlueprintLog: New page: BP_PlayerCharacter 컴파일
+[2023.03.07-12.01.34:957][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.03.07-12.01.35:410][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-12.01.35:426][943]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacter698F76014C7F2E183A09DB80AEBC859A.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-12.01.35:441][943]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-12.01.35:441][943]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-12.01.43:320][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_PlayerCharacter" FILE="../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset" SILENT=true
+[2023.03.07-12.01.43:336][495]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/BP_PlayerCharacter017C32E742E69166DCFE2D98EE06B972.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Content/Blueprint/BP_PlayerCharacter.uasset'
+[2023.03.07-12.01.43:349][495]AssetCheck: New page: 에셋 저장:  BP_PlayerCharacter
+[2023.03.07-12.01.43:349][495]LogContentValidation: Display: Blueprint /Game/Blueprint/BP_PlayerCharacter.BP_PlayerCharacter 유효성 검사 중
+[2023.03.07-12.01.47:689][623]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2023.03.07-12.01.47:692][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.07-12.01.47:692][623]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 3. 8. 오전 6:01:47)
+[2023.03.07-12.01.47:692][623]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-12.01.47:700][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007743s)
+[2023.03.07-12.01.47:700][623]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.07-12.01.47:700][623]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2023.03.07-12.01.47:700][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008547s)
+[2023.03.07-12.01.47:730][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.03.07-12.01.47:731][623]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.07-12.01.47:731][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.07-12.01.47:731][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.07-12.01.47:731][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.07-12.01.47:731][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.07-12.01.47:731][623]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.07-12.01.47:731][623]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.07-12.01.47:731][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.07-12.01.47:731][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.07-12.01.47:731][623]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.07-12.01.47:731][623]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.07-12.01.47:731][623]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.07-12.01.47:731][623]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.07-12.01.47:733][623]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.07-12.01.47:733][623]LogAudioMixer: Display: 1: FrontRight
+[2023.03.07-12.01.47:741][623]LogAudioMixer: Display: Using Audio Device 스피커(2- USBZH5K-ENC)
+[2023.03.07-12.01.47:741][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.07-12.01.47:741][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.07-12.01.47:741][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.07-12.01.47:741][623]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.07-12.01.47:741][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.07-12.01.47:741][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.07-12.01.47:742][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.07-12.01.47:742][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.07-12.01.47:742][623]LogInit: FAudioDevice initialized.
+[2023.03.07-12.01.47:742][623]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2023.03.07-12.01.47:759][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-12.01.47:759][623]LogLoad: Game class is 'GameModeBase'
+[2023.03.07-12.01.47:761][623]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.07-21.01.47
+[2023.03.07-12.01.47:762][623]LogWorld: Bringing up level for play took: 0.001661
+[2023.03.07-12.01.47:762][623]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2023.03.07-12.01.47:766][623]PIE: 서버가 로그인했습니다.
+[2023.03.07-12.01.47:767][623]PIE: 에디터에서 플레이 총 시작 시간 0.076초입니다.
+[2023.03.07-12.02.17:504][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-12.02.17:504][186]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.07-12.02.17:505][186]LogSlate: Window 'Project_CT 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2023.03.07-12.02.17:510][186]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-12.02.17:510][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-12.02.17:516][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.07-12.02.17:521][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-12.02.17:542][186]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.07-12.02.17:542][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-12.02.17:543][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.07-12.02.17:548][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.03.07-12.02.17:578][189]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.03.07-12.02.42:318][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.03.07-12.02.42:328][298]LogSavePackage: Moving '../../../../../MyProject/Project_CT/Project_CT/Saved/ThirdPersonExampleMap_Auto52FD846CF45B34906A5B523BEC4CA0B45.tmp' to '../../../../../MyProject/Project_CT/Project_CT/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2023.03.07-12.02.42:329][298]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonExampleMap' took 0.035
+[2023.03.07-12.02.42:329][298]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
